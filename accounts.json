@@ -1,0 +1,19 @@
+{
+  "accounts": [
+    {
+      "nickname": "ASVIN",
+      "password": "ASRAT-OWNER-2026",
+      "role": "owner"
+    },
+    {
+      "nickname": "USER1",
+      "password": "123456",
+      "role": "user"
+    },
+    {
+      "nickname": "SELLER1",
+      "password": "123456",
+      "role": "seller"
+    }
+  ]
+}
